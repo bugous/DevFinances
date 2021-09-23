@@ -1,7 +1,7 @@
 const Modal = {
     open(){
-        // Abrir modal
-        // Adicionar a class active ao modal
+        //Abrir modal
+        //Adicionar a class active ao modal
         document
             .querySelector('.modal-overlay')
             .classList
